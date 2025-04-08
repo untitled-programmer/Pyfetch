@@ -4,7 +4,7 @@ Pyfetch is a lightweight, command-line interface (CLI) tool written in Python, d
 
 ## Features
 
-- Display system information such as OS, kernel, uptime, and more
+- Display system information
 - Lightweight and fast
 - Customizable output
 - Written in Python, making it easy to modify and extend
