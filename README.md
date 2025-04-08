@@ -21,7 +21,6 @@ To install Pyfetch, follow these steps:
 
 2. Ensure you have Python installed. Pyfetch requires Python 3.x.
 
-3. Install the required dependencies:
     ```bash
     python3 pyfetch.py
     ```
